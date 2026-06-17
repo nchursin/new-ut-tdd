@@ -1,4 +1,6 @@
 # Типы тестов
+Timing: 20min
+## Какие типы тестов есть?
 - unit
 - integration
 - acceptance
