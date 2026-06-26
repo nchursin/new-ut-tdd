@@ -79,6 +79,7 @@ def test_win_on_three_x_horizontally():   # 4ый шаг: название те�
 Пример названия выше
 
 ### Практика
+[ Практика ](/practice/unit_tests.md)
 Написать новый unit test на код в упражнении с учётом того, что узнали. Dice Roll Game
 
 #### Дебриф на практику
