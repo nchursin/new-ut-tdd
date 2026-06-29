@@ -1,6 +1,6 @@
 ## Практика
 #### Тесты на Dice Roll Game
-Напишите DSL тесты на Dice Roll Game.
+Напишите DSL тесты на Dice Roll Game. [Код упражнения](/practice/day1/dices/)
   
 **Примеры:**
   
