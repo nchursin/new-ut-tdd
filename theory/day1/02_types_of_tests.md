@@ -18,6 +18,7 @@ Timing: 20min
 
 ## Границы применимости тестов
 Чем отличаются разные типы тестов, хорошо видно на картинке из книги Agile Technical Practices Distilled.
+  
 ![test pyramid](assets/test_boundaries.png)
 
 ## Мини-практика
