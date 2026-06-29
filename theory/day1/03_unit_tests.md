@@ -56,7 +56,6 @@ TODO: add exercise code
 - 1 Assert или как минимум 1 концепция на тест
 
 ### Проектор
-TODO: сделать слайд
 ```python
 # одна концепция и одна проверка на тест
 
@@ -79,7 +78,7 @@ def test_win_on_three_x_horizontally():   # 4ый шаг: название те�
 Пример названия выше
 
 ### Практика
-[ Практика ](/practice/day1/03_unit_tests.md)
+[Практика](/practice/day1/03_unit_tests.md)
   
 Написать новый unit test на код Dice Roll Game с учётом того, что узнали.
 
