@@ -17,12 +17,11 @@ Timing: 20min
 ![test pyramid](assets/icecream_cone.png)
 
 ## Границы применимости тестов
-TODO: Image to add
+Чем отличаются разные типы тестов, хорошо видно на картинке из книги Agile Technical Practices Distilled.
+![test pyramid](assets/test_boundaries.png)
 
 ## Мини-практика
 > Обсуждение
 
 Сервис с UI, который делит одно число на другое. Какими тестами его нужно покрывать на каких уровнях? Приведите примеры тестов и их распределение по уровням.
 
-TODO: Flip to add
-TODO: Ответы добавить
