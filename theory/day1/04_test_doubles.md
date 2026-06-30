@@ -1,5 +1,6 @@
 # Тест-дубли
 Timing: 45-60 min
+
 ## Stub, Mock, Fake, Spy
 Разные авторы используют разную терминологию. Будьте к этому готовы. Мы берем за основу терминологию Роя Ошерова из книги "The art of unit testing".
 - *Тестовый дублер*
@@ -50,13 +51,17 @@ Timing: 45-60 min
 - Если в тестах слишком много дублеров, меняйте дизайн
 
 ## Практика
+Timing: 20 min
+
+[Практика](/practice/day1/04_test_doubles.md) - использовать mock в упражнении Dice Roll Game.
+
+## Практика
+Timing: 20 min
+
 [Практика](/practice/day1/04_test_doubles.md) - использовать stub в упражнении Dice Roll Game.
 
 ## Тесты на поведение/состояние
 ![behaviour and state testing](assets/behaviour-state.png)
-
-## Практика
-[Практика](/practice/day1/04_test_doubles.md) - использовать mock в упражнении Dice Roll Game.
 
 ## Дебриф
 Где бы вы в своей работе могли бы иcпользовать дублёры? На что вы добавили бы дублёры?
