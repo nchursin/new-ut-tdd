@@ -52,9 +52,9 @@ Timig: 10 min
 ## Структура AAA
 ### Flip:
 #### Структура AAA
-- Arrange
-- Act
 - Assert
+- Act
+- Arrange
 
 #### Правила
 - 1 Act
