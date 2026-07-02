@@ -17,6 +17,7 @@ Timing: 45 min
 
 ## Seam, peel, slice
 Seam - место в коде, с которым работаем
+  
 Peel & slice техники, как выделять
 
 TODO: добавить флипы на peel & slice (перерисовать)
