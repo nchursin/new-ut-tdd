@@ -17,9 +17,11 @@
 5. GOTO 1 UNTIL 100% coverage
 
 ### Практика
-Характеризационные тесты на Gilded Rose.
 
-TODO: Gilded Rose на русском (форк + перевод)
+Timig: 20 min
+  
+[Практика](/practice/day2/02_working_with_legacy.md) 
+Написать характеризационные тесты на Gilded Rose.
 
 ## Golden Master
 - Когда есть четкие входные и выходные данные
@@ -34,9 +36,12 @@ TODO: Gilded Rose на русском (форк + перевод)
 5. GOTO 1 UNTIL 100% coverage
 
 ### Практика
-Golden Master тесты на Gilded Rose.
 
-TODO: Gilded Rose на русском (форк + перевод)
+Timig: 20 min
+  
+[Практика](/practice/day2/02_working_with_legacy.md) 
+Написать Golden Master тест на Gilded Rose.
+
 
 ## Дебриф
 Как впечатления? Насколько помогало написание тестов разбираться в легаси?
