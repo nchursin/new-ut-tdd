@@ -12,6 +12,8 @@ Timing: 60 min
 - Первый же нормальный тест всё развалил
 
 ### Флип: Проблематика
+![mushroom ai meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-Z2-iDQeH9jYgODS8o6eaRyUk8vTLaiueS7tcQ7eFu5EoOdZV17kWYus&s=10)
+
 - LLM галлюцинирует
 - LLM часто забегает вперед
 - Есть искушение довериться тому, что примерно похоже на результат 
