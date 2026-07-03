@@ -1,5 +1,5 @@
 # Типы тестов
-Timing: 20min
+Timing: 20 min
 ## Какие типы тестов есть?
 - unit
 - integration
@@ -10,10 +10,10 @@ Timing: 20min
 
 ## Границы применимости тестов
 Чем отличаются разные типы тестов, хорошо видно на картинке из книги Agile Technical Practices Distilled.
-
+  
   
 ![test boundaries](assets/test_boundaries.png)
-
+  
   
 ## Пирамида тестирования
 
