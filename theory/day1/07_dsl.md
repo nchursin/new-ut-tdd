@@ -5,7 +5,7 @@ Timing: 45-60 min
 
 ### Флип: Польза DSL
 
-- Примеры fluent DSL
+- Примеры DSL
    - player.buy(5_CHIPS)
    - Create.player()
    - Create.player().with_100_chips().build()
