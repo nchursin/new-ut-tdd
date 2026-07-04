@@ -21,6 +21,8 @@ Timing: 45-60 min
 
 В Agile Technical Practices Distilled используется чуть другая терминология, но близкая.
 
+![behaviour and state testing](assets/behaviour-state.png)
+
 ## Флип: Способы инъекции дублеров
 ![injections](assets/injections.png)
 
@@ -60,7 +62,7 @@ Timing: 20 min
 
 [Практика](/practice/day1/04_test_doubles.md) - использовать stub в упражнении Dice Roll Game.
 
-## Флипы: Тесты на поведение/состояние
+## Проектор: Тесты на поведение/состояние
 Разница между тестами на поведение и тестами на состояние:
   
 **Поведение**
@@ -76,8 +78,6 @@ Timing: 20 min
 - После Game.Play() игрок, сделавший неправильную ставку, проиграл ставку
 - После Game.Play() все игроки, сделавшие неправильные ставки, проиграли свои ставки
   
-
-![behaviour and state testing](assets/behaviour-state.png)
 
 ## Дебриф
 Где бы вы в своей работе могли бы иcпользовать дублёры? На что вы добавили бы дублёры?
