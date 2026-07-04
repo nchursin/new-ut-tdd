@@ -66,36 +66,6 @@ Timing: 45-60 min
 - Придумать, какие нужны тесты
 - Подумать, как могут выглядеть DSL-style тесты
 
-#### Пример без DSL
-
-```python
-order = Order()
-order.add_line_item(
-    "Laptop",
-    2,
-    Rub(45000.00),
-)
-order.add_line_item(
-    "Mouse",
-    3,
-    Rub(1500.00),
-)
-order.set_state("NV")
-receipt = order.get_receipt()
-
-assert receipt.total() == Rub(86751.00)
-```
-
-#### Пример DSL
-```python
-receipt = Create.receipt().for_order(
-    Create.order_line_item(2, "Laptop").with_price(Rub(45000.00)),
-    Create.order_line_item(3, "Mouse").with_price(Rub(1500.00)),
-).in_state("NV")
-
-assert receipt.total() == Rub(86751.00)
-```
-
 ### Практика. Тесты на Dice Roll Game
 [Практика](/practice/day1/07_dsl.md) - напишите DSL тесты на Dice Roll Game.
 
