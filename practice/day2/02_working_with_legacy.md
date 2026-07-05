@@ -17,8 +17,10 @@
 Требуется обновление нашей системы:
  - Зачарованные ("Conjured") предметы теряют качество (Quality) в два раза быстрее обычных товаров
   
-[Код упражнения](/practice/day2/gilded-rose/)
+[Код упражнения](/practice/day2/gilded_rose/)
     
   
 ## Практика про Golden Master тест
 Написать Golden Master тест на Gilded Rose.
+  
+[Код упражнения](/practice/day2/gilded_rose/)
