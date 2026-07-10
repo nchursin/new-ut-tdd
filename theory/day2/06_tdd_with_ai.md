@@ -9,15 +9,17 @@ Timing: 60 min
 - LLM что-то уверенно нагенерил
 - На первый взгляд даже похоже на рабочее
 - Первый же нормальный тест всё развалил
-
+  
+![ai meme](assets/ai_meme_1.png)
 ### Флип: Проблематика
-![mushroom ai meme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-Z2-iDQeH9jYgODS8o6eaRyUk8vTLaiueS7tcQ7eFu5EoOdZV17kWYus&s=10)
-
+![ai meme](assets/ai_meme_2.png)
+  
 - LLM галлюцинирует
 - LLM часто забегает вперед
 - LLM может выдавать код огромными кусками
 - Есть искушение довериться тому, что примерно похоже на результат 
-
+  
+![ai meme](assets/ai_meme_3.png)
 ### Флип: LLM + TDD
 - Задать TDD как базовый принцип разработки
 - Создать план в виде тестов
@@ -71,8 +73,7 @@ Timing: 60 min
 ## Практика
 Timig: 40 min
   
-[Практика](/practice/day2/05_tdd_for_design.md) 
-Написать кату Stock Portfolio по TDD с AI, контролируя и верифицируя каждый шаг.
+[Практика](/practice/day2/06_tdd_with_ai.md) - напишите кату Stock Portfolio по TDD с AI, контролируя и верифицируя каждый шаг.
 
 ## Дебриф
   
