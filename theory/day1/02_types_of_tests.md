@@ -25,8 +25,6 @@ Timing: 20 min
 
 ### Важность баланса тестов
 ![unit meme](assets/unit_meme_1.png)
-  
-![unit meme](assets/unit_meme_2.png)
 
 ## Флип: Мини-практика
 > Обсуждение
