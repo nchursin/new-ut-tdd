@@ -19,7 +19,7 @@ Timing: 45 min
 
 ### Практика
 Timig: 10 min
-  
+
 [Практика](/practice/day1/03_unit_tests.md) - написать unit тесты на код в упражнении Dice Roll Game.
 
 ### Дебриф
@@ -52,9 +52,12 @@ Timig: 10 min
 ## Структура AAA
 ### Флип: Структура AAA
 - Assert
+    -  проверка результата
 - Act
+    - действие
 - Arrange
-   
+    - подготовка данных/системы
+
 **Правила**
 - 1 Act
 - 1 Assert или как минимум 1 концепция на тест
@@ -84,7 +87,7 @@ def test_win_on_three_x_horizontally():   # 4ый шаг: название те�
 
 ### Практика
 Timing: 20 min
-  
+
 [Практика](/practice/day1/03_unit_tests.md) - написать новые unit тесты на код Dice Roll Game с учётом того, что узнали.
 
 ### Дебриф

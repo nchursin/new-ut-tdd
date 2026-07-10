@@ -5,14 +5,8 @@ Timing: 45 min
 
 ### Флип: Польза DSL
 
-- Примеры DSL
-   - player.buy(5_CHIPS)
-   - Create.player()
-   - Create.player().with_100_chips().build()
-   - Create.game().with_six_players().please()
-   - assert player.balance() == 2_CHIPS
-- Тесты становятся читаемыми для любого, кто знаком с предметной областью
-    - Общий язык
+- Общий язык
+   - Тесты читаемые для любого, кто знаком с предметной областью
 - Тесты легко писать
     - Create. подскажет какие сущности есть в вашем домене
     - Create.entity() создаст билдер для валидной сущности
@@ -20,8 +14,14 @@ Timing: 45 min
     - Create.entity().please() вернет сущность из билдера
     - Скрытие данных: в тесте только то, что важно для теста
     - Легко расширять по аналогии
+- Примеры DSL
+   - player.buy(5_CHIPS)
+   - Create.player()
+   - Create.player().with_100_chips().build()
+   - Create.game().with_six_players().please()
+   - assert player.balance() == 2_CHIPS
 
-### Слайд: Практика. Упражнение про кассовый чек
+### Проектор: Практика. Упражнение про кассовый чек
 
 ```
 Наименование товара         Кол-во         Цена            Стоимость
