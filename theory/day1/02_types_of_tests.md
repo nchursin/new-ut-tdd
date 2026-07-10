@@ -23,6 +23,10 @@ Timing: 20 min
 Антипаттерн сбалансированного покрытия: рожок с мороженым вместо пирамиды, где большая часть ручного тестирования.
 ![test pyramid](assets/icecream_cone.png)
 
+### Важность баланса тестов
+![unit meme](assets/unit_meme_1.png)
+  
+![unit meme](assets/unit_meme_2.png)
 
 ## Флип: Мини-практика
 > Обсуждение
